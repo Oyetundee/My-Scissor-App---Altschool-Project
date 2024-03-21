@@ -26,3 +26,9 @@ Create a new branch: git checkout -b feature/new-feature.
 Make your changes and commit them: git commit -m 'Add new feature'.
 Push to the branch: git push origin feature/new-feature.
 Submit a pull request with a detailed description of your changes.
+
+This URL shortening application is designed to simplify the process of sharing long URLs by generating short and memorable links. Built with scalability and user experience in mind, the application leverages modern web technologies such as React.js, TypeScript, and Firebase for seamless integration and efficient performance.
+
+Click here to visit the deployed application
+https://my-scissor-app-altschool-project.vercel.app/
+![Screenshot (10)](https://github.com/Oyetundee/My-Scissor-App---Altschool-Project/assets/71951915/66c23957-89c2-468c-805f-fd015f36ccfe)
